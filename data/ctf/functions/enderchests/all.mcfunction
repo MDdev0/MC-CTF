@@ -1,0 +1,4 @@
+execute as @a[nbt={EnderItems:[{id:"minecraft:red_banner", tag:{display:{Name:'{"bold":true,"italic":false,"color":"red","text":"Red Flag"}'}}}]}] run function ctf:enderchests/red
+execute as @a[nbt={EnderItems:[{id:"minecraft:blue_banner", tag:{display:{Name:'{"bold":true,"italic":false,"color":"blue","text":"Blue Flag"}'}}}]}] run function ctf:enderchests/blue
+execute as @a[nbt={EnderItems:[{id:"minecraft:green_banner", tag:{display:{Name:'{"bold":true,"italic":false,"color":"dark_green","text":"Green Flag"}'}}}]}] run function ctf:enderchests/green
+execute as @a[nbt={EnderItems:[{id:"minecraft:yellow_banner", tag:{display:{Name:'{"bold":true,"italic":false,"color":"yellow","text":"Yellow Flag"}'}}}]}] run function ctf:enderchests/yellow

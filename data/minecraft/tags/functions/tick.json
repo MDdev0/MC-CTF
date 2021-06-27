@@ -1,0 +1,15 @@
+{
+	"values": [
+		"ctf:item_effects",
+		"ctf:markers/create",
+		"ctf:markers/track",
+		"ctf:markers/cleanup",
+		"ctf:storagefinder/area",
+		"ctf:storagefinder/entities",
+		"ctf:enderchests/all",
+		"ctf:monument/create",
+		"ctf:monument/structure",
+		"ctf:monument/particles",
+		"ctf:monument/check"
+	]
+}
